@@ -62,12 +62,12 @@ Visit http://localhost:3000 to see the app in action.
 
 ---
 
-<img width="953" height="908" alt="Screenshot 2025-09-11 220001" src="https://github.com/user-attachments/assets/5addba43-0964-46e7-80ed-69212ee7e0c9" />
+<img width="953" height="908" alt="Screenshot 2025-09-11 220001" src="https://github.com/user-attachments/assets/6c00b81d-77df-405a-88a5-3923a2cc65c3" />
 
 ---
 
-<img width="951" height="903" alt="Screenshot 2025-09-11 220014" src="https://github.com/user-attachments/assets/9d2864f6-059f-4740-a3eb-a3d216b662b5" />
+<img width="951" height="903" alt="Screenshot 2025-09-11 220014" src="https://github.com/user-attachments/assets/79d01b27-fc67-4c9e-9ceb-a25c033c2d27" />
 
 ---
 
-<img width="957" height="909" alt="Screenshot 2025-09-11 220034" src="https://github.com/user-attachments/assets/5cd5bed0-17f7-4538-bb45-da571c0d23ef" />
+<img width="957" height="909" alt="Screenshot 2025-09-11 220034" src="https://github.com/user-attachments/assets/bf522056-0fa9-4b09-b5c6-518e86ff3dc2" />
